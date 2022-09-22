@@ -1,5 +1,6 @@
-title: PROSE
-description: PreTeXt-Runestone Open Source Ecosystem
+title: "PROSE: PreTeXt-Runestone Open Source Ecosystem"
+description: An NSF project supporting Open Educational Resources in STEM
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+github: is_project_page: false
