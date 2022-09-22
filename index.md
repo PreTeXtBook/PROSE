@@ -8,7 +8,16 @@ and [Runestone](https://runestone.academy) software products supporting the auth
 virtual and in-person roundtable discussions, office hours, and workshops, we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
 
-# Upcoming Events
+## Get Involved and Stay Connected
+
+- Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce)
+- Twitter: [@PreTeXtBook](https://twitter.com/pretextbook), [@iRunestone](https://twitter.com/irunestone)
+
+## Organizing Workshop, 2023 June 12-16 (Save the Date!)
+
+COMING SOON: Sign-ups for those interested in participating in our in-person PROSE Organizing Workshop.
+
+## Upcoming Events
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&showNav=1&showCalendars=0&showTitle=0&src=ODhjYmI0NWJhNDdjMDk0Yjk0ZjFkNjg1MjJhMTQxZjQ5NTllZWRlMDFiMDNjYzQ1MzAyNzg0YTE0ODJlY2Y3ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
