@@ -12,6 +12,7 @@ publishers, and researchers using these products to develop a vision and strateg
 
 - Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce)
 - Twitter: [@PreTeXtBook](https://twitter.com/pretextbook), [@iRunestone](https://twitter.com/irunestone)
+- Discord: [Join Discord](https://discord.gg/f3Qmbk9P3U)
 
 ## Organizing Workshop, 2023 June 12-16 (Save the Date!)
 
