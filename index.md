@@ -7,7 +7,5 @@ Science, Technology, Engineering and Mathematics (STEM) educational materials th
 ---
 
 <div style="text-align:center">
-
-<img src="./nsf.svg" style="width:100px;vertical-align:middle"> PROSE is supported by [NSF Award #2230153](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230153)
-
+<img src="./nsf.svg" style="width:100px;vertical-align:middle" alt="NSF logo"> PROSE is supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230153">NSF Award #2230153</a>.
 </div>
