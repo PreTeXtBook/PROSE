@@ -5,7 +5,7 @@ layout: default
 PROSE is a project scoping the development of an Open-Source Ecosystem (OSE) surrounding [PreTeXt](https://pretextbook.org)
 and [Runestone](https://runestone.academy) software products supporting the authoring and publishing of
 [Open Educational Resources](https://en.wikipedia.org/wiki/Open_educational_resources) in STEM. Through a series of
-virtual and in-person roundtable discussions, office hours, and workshops, we will engage instructors, authors,
+virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
 
 ## Get Involved and Stay Connected
