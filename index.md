@@ -8,6 +8,10 @@ and [Runestone](https://runestone.academy) software products supporting the auth
 virtual and in-person roundtable discussions, office hours, and workshops, we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
 
+# Upcoming Events
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&mode=AGENDA&showNav=1&showCalendars=0&title=PROSE%3A%20PreTeXt-Runestone%20Open%20Source%20Ecosystem&src=ODhjYmI0NWJhNDdjMDk0Yjk0ZjFkNjg1MjJhMTQxZjQ5NTllZWRlMDFiMDNjYzQ1MzAyNzg0YTE0ODJlY2Y3ZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
 ---
 
 <p style="text-align:center"><img src="./nsf.svg" style="width:100px;vertical-align:middle" alt="NSF logo"> PROSE is supported by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230153">NSF Award #2230153</a>.</p>
