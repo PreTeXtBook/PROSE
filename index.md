@@ -8,7 +8,15 @@ and [Runestone](https://runestone.academy) software products supporting the auth
 virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
 
-## Get Involved and Stay Connected
+## Get Involved
+
+Everyone engaged in STEM Open Educational Resources is encouraged to
+[fill out our interest form](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
+letting us know how this project could support your work, and how you can contribute back to the project.
+
+## Connect via Social
+
+Our community members are active on these corners of the internet:
 
 - Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce)
 - Twitter: [@PreTeXtBook](https://twitter.com/pretextbook), [@iRunestone](https://twitter.com/irunestone)
