@@ -3,7 +3,7 @@ layout: default
 ---
 
 PROSE is a project scoping the development of an Open-Source Ecosystem (OSE) surrounding PreTeXt
-and Runestone software products supporting the authoring and publishing of
+and Runestone software products that enable the authoring and publishing of [accessible](https://en.wikipedia.org/wiki/Accessibility)
 [Open Educational Resources](https://en.wikipedia.org/wiki/Open_educational_resources) in STEM. Through a series of
 virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
@@ -23,9 +23,11 @@ assign content from the book for students to complete online. Going beyond a tra
 Runestone provides deep analytics that not only help students and instructors optimize learning, but also support
 authors and researchers that want to study how books are being used.
 
+<img src="./diagram.png" style="width:100%" alt="Diagram illustrating connections between PreTeXt and Runestone">
+
 ## Get Involved
 
-Everyone engaged in STEM Open Educational Resources is encouraged to
+Everyone engaged in STEM Open Educational Resources, *whether or not you're currently involved with PreTeXt or Runestone*, is encouraged to
 [fill out our interest form](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
 letting us know how this project could support your work, and how you can contribute back to the project.
 
