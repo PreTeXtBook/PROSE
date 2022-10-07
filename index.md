@@ -2,11 +2,26 @@
 layout: default
 ---
 
-PROSE is a project scoping the development of an Open-Source Ecosystem (OSE) surrounding [PreTeXt](https://pretextbook.org)
-and [Runestone](https://runestone.academy) software products supporting the authoring and publishing of
+PROSE is a project scoping the development of an Open-Source Ecosystem (OSE) surrounding PreTeXt
+and Runestone software products supporting the authoring and publishing of
 [Open Educational Resources](https://en.wikipedia.org/wiki/Open_educational_resources) in STEM. Through a series of
 virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
+
+## What are PreTeXt and Runestone?
+
+[PreTeXt](https://pretextbook.org) is an open-source language that allows STEM textbook authors to describe their content
+in a single source. This content can include words, images, embeddable videos, applets,
+and much more. Our open-source software is able to convert this single source into a printable PDF,
+accessible and interactive HTML, tactile braille code, and more formats. These documents can then
+be deployed to freely-available static web hosts, with [GitHub Pages](https://pages.github.com) support built-in.
+
+[Runestone](https://runestone.academy) is a Learning Engineering Analytics Portal (LEAP) built with open-source software
+that adds LMS-like functionality
+to PreTeXt-authored HTML. Students and instructors are able to log into Runestone-hosted textbooks, allowing instructors to
+assign content from the book for students to complete online. Going beyond a traditional learning management system,
+Runestone provides deep analytics that not only help students and instructors optimize learning, but also support
+authors and researchers that want to study how books are being used.
 
 ## Get Involved
 
