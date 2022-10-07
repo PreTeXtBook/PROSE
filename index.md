@@ -8,6 +8,8 @@ and Runestone software products that enable the authoring and publishing of [acc
 virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
 
+- [Contact us!](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
+
 ## What are PreTeXt and Runestone?
 
 [PreTeXt](https://pretextbook.org) is an open-source language that allows STEM textbook authors to describe their content
@@ -31,6 +33,8 @@ Everyone engaged in STEM Open Educational Resources, *whether or not you're curr
 [fill out our interest form](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
 letting us know how this project could support your work, and how you can contribute back to the project.
 
+- [Get in touch!](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
+
 ## Connect via Social
 
 Our community members are active on these corners of the internet:
@@ -39,7 +43,7 @@ Our community members are active on these corners of the internet:
 - Twitter: [@PreTeXtBook](https://twitter.com/pretextbook), [@iRunestone](https://twitter.com/irunestone)
 - Discord: [Runestone Academy](https://discord.gg/f3Qmbk9P3U)
 
-## Organizing Workshop, 2023 June 12-16 (Save the Date!)
+## Save the Date! 2023 June 12-16
 
 COMING SOON: Sign-ups for those interested in participating in our in-person [PROSE Organizing Workshop](./workshop.html).
 
