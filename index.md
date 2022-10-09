@@ -25,9 +25,9 @@ assign content from the book for students to complete online. Going beyond a tra
 Runestone provides deep analytics that not only help students and instructors optimize learning, but also support
 authors and researchers that want to study how books are being used.
 
-<img src="./process-diagram.png" style="width:100%" alt="Diagram illustrating process of creating and disseminating OER with PreTeXt and Runestone">
+<img src="./process-diagram.png" style="width:100%;margin:auto;display:block;" alt="Diagram illustrating process of creating and disseminating OER with PreTeXt and Runestone">
 
-<img src="./ecosystem-diagram.png" style="width:100%" alt="Diagram illustrating the PreTeXt and Runestone ecosystem">
+<img src="./ecosystem-diagram.png" style="width:60%;margin:auto;display:block;" alt="Diagram illustrating the PreTeXt and Runestone ecosystem">
 
 ## Get Involved
 
