@@ -23,7 +23,8 @@ that adds LMS-like functionality
 to PreTeXt-authored HTML. Students and instructors are able to log into Runestone-hosted textbooks, allowing instructors to
 assign content from the book for students to complete online. Going beyond a traditional learning management system,
 Runestone provides deep analytics that not only help students and instructors optimize learning, but also support
-authors and researchers that want to study how books are being used.
+authors and researchers that want to study how books are being used, and evaluate interactive pedagogical features
+of online books that improve student learning.
 
 <img src="./ecosystem-diagram.png" style="width:60%;margin:auto;display:block;" alt="Diagram illustrating the PreTeXt and Runestone ecosystem">
 
