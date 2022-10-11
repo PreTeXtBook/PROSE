@@ -19,10 +19,12 @@ accessible and interactive HTML, tactile braille code, and more formats. These d
 be deployed to freely-available static web hosts, with [GitHub Pages](https://pages.github.com) support built-in.
 
 [Runestone](https://runestone.academy) is a Learning Engineering Analytics Portal (LEAP) built with open-source software
-that adds LMS-like functionality
-to PreTeXt-authored HTML. Students and instructors are able to log into Runestone-hosted textbooks, allowing instructors to
-assign content from the book for students to complete online. Going beyond a traditional learning management system,
-Runestone provides deep analytics that not only help students and instructors optimize learning, but also support
+that enhances PreTeXt-authored HTML, providing an all-inclusive solution for managing a course.
+Students and instructors are able to log into Runestone-hosted textbooks, allowing instructors to
+assign content from the book for students to complete online. Going beyond a traditional learning management system, Runestone 
+applies evidence-based principles and methods from educational technology and the learning sciences to create engaging and 
+effective learning experiences, supporting the difficulties and challenges of learners as they learn.
+Runestone's deep analytics not only help students and instructors optimize learning, but also support
 authors and researchers that want to study how books are being used, and evaluate interactive pedagogical features
 of online books that improve student learning.
 
