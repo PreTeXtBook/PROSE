@@ -36,7 +36,7 @@ of online books that improve student learning.
 
 Everyone engaged in STEM Open Educational Resources, *whether or not you're currently involved with PreTeXt or Runestone*, is encouraged to
 [fill out our interest form](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
-letting us know how this project could support your work, and how you can contribute back to the project.
+letting us know how this project could support your work.
 
 - [Get in touch!](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
 
