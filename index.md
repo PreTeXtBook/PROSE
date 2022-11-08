@@ -46,6 +46,7 @@ Our community members are active on these corners of the internet:
 
 - Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce)
 - Twitter: [@PreTeXtBook](https://twitter.com/pretextbook), [@iRunestone](https://twitter.com/irunestone)
+- Mastodon: <a href="https://fosstodon.org/web/@PreTeXt" rel="me">@PreTeXt@fosstodon.org</a>
 - Discord: [Runestone Academy](https://discord.gg/f3Qmbk9P3U)
 
 ## Save the Date! 2023 June 12-16
