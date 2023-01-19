@@ -49,6 +49,12 @@ Our community members are active on these corners of the internet:
 - Mastodon: <a href="https://fosstodon.org/@PreTeXt" rel="me">@PreTeXt@fosstodon.org</a>
 - Discord: [Runestone Academy](https://discord.gg/f3Qmbk9P3U)
 
+## Project Team
+
+- [Steven Clontz](https://clontz.org) (<sclontz@southalabama.edu>), PreTeXt-Runestone core contributor and PROSE Phase I coordinator
+- [Rob Beezer](https://pretextbook.org), PreTeXt founder and maintainer
+- [Brad Miller](https://runestone.academy), Runestone founder and maintainer
+
 ## Save the Date! 2023 June 12-16
 
 COMING SOON: Sign-ups for those interested in participating in our in-person [PROSE Organizing Workshop](./workshop.html).
