@@ -8,7 +8,11 @@ and Runestone software products that enable the authoring and publishing of [acc
 virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
 
-- [Contact us!](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
+- [Connect with us!](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
+
+## PROSE Organizing Workshop: 2023 June 12-16
+
+Information on our summer workshop is at [PROSE Organizing Workshop](./workshop).
 
 ## What are PreTeXt and Runestone?
 
@@ -54,10 +58,6 @@ Our community members are active on these corners of the internet:
 - [Steven Clontz](https://clontz.org) (<sclontz@southalabama.edu>), PreTeXt-Runestone core contributor and PROSE Phase I coordinator
 - [Rob Beezer](https://pretextbook.org), PreTeXt founder and maintainer
 - [Brad Miller](https://runestone.academy), Runestone founder and maintainer
-
-## Save the Date! 2023 June 12-16
-
-COMING SOON: Sign-ups for those interested in participating in our in-person [PROSE Organizing Workshop](./workshop.html).
 
 ## Upcoming Events
 
