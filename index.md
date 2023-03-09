@@ -12,7 +12,7 @@ publishers, and researchers using these products to develop a vision and strateg
 
 ## 2023 PROSE Summer Programs
 
-Learn how to get involvedin one of our [2023 Summer Programs](./summer/).
+Learn how to get involved in one of our [2023 Summer Programs](./summer/).
 
 ## What are PreTeXt and Runestone?
 
