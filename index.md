@@ -10,9 +10,9 @@ publishers, and researchers using these products to develop a vision and strateg
 
 - [Connect with us!](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
 
-## PROSE Organizing Workshop: 2023 June 12-16
+## 2023 PROSE Summer Programs
 
-Information on our summer workshop is at [PROSE Organizing Workshop](./workshop).
+Learn how to get involvedin one of our [2023 Summer Programs](./summer/).
 
 ## What are PreTeXt and Runestone?
 

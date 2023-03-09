@@ -4,7 +4,7 @@ title: PROSE Organizing Workshop
 description: In-person workshop to lay the foundation for our OSE
 ---
 
-- [Back to Home](./)
+- [Back to Home](../)
 
 The focus of our PROSE Organizing Workshop, 2023 June 12-16, is to bring the community together to develop a shared vision and plan to establish a managing organization for the PreTeXt-Runestone Open Source Ecosystem (PROSE). This organization would serve the communities around PreTeXt XML language and software products for authoring open-source STEM textbooks, and Runestone courseware for hosting these books as part of a powerful Learning Engineering Analytics Portal.
 
