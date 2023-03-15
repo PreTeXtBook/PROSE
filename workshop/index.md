@@ -6,7 +6,7 @@ description: In-person workshop to lay the foundation for our OSE
 
 - [Back to Home](../)
 
-The focus of our PROSE Organizing Workshop, 2023 June 12-16 at the [University of South Alabama](https://www.southalabama.edu/), is to bring the community together to develop a shared vision and plan to establish a managing organization for the [PreTeXt-Runestone Open Source Ecosystem]((../) (PROSE). This organization would serve the communities around PreTeXt XML language and software products for authoring open-source STEM textbooks, and Runestone courseware for hosting these books as part of a powerful Learning Engineering Analytics Portal.
+The focus of our PROSE Organizing Workshop, 2023 June 12-16 at the [University of South Alabama](https://www.southalabama.edu/), is to bring the community together to develop a shared vision and plan to establish a managing organization for the [PreTeXt-Runestone Open Source Ecosystem](../) (PROSE). This organization would serve the communities around PreTeXt XML language and software products for authoring open-source STEM textbooks, and Runestone courseware for hosting these books as part of a powerful Learning Engineering Analytics Portal.
 
 This workshop will include a variety of stakeholders across the ecosystem: instructors, authors, researchers, publishers, and developers. It can often be hard to see the forest for the trees, and we need voices from all corners of our community in order to envision the sustainable infrastructure (both human and technological) we need to build to support the creation, distribution, use, and study of the next generation of high quality and evidence-based STEM Open Educational Resources. 
 
