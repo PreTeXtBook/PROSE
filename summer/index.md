@@ -6,16 +6,18 @@ description: Get involved with the community
 
 - [Back to Home](../)
 
-### Getting Started with PreTeXt
+### Getting Started with PreTeXt Virtual Workshops [[Registration]](https://docs.google.com/forms/d/e/1FAIpQLScKao-BJx7UplRjY8nFBTAGc34DnJFPx24ONGHfB4frRrcZPw/viewform?usp=sf_link)
 
-More information coming soon!
+Want to get started writing your next great document, producing print, interactive and accessible HTML, and braille all from the same source? Community leaders Steven Clontz and Oscar Levin are hosting virtual workshops this summer to get you started from scratch.
 
-Two virtual workshops are available:
+Two options are are available. Registration is $150, with early-bird discounts and other waivers available (see registration form for details).
 
 - 2023 May 16 & 18 (Tues & Thurs)  
   1pm-3pm Eastern
 - 2023 July 10 & 12 (Mon & Wed)  
   11am-1pm Eastern
+
+[Register here for either the May or July session.](https://docs.google.com/forms/d/e/1FAIpQLScKao-BJx7UplRjY8nFBTAGc34DnJFPx24ONGHfB4frRrcZPw/viewform?usp=sf_link) Space is limited and offered first come, first serve.
 
 ### MAA Open Math: Team-Based Inquiry Learning [[Link]](https://web.cvent.com/event/e5b8d9cd-7eee-45e8-a067-1b7be205fa16/summary)
 
