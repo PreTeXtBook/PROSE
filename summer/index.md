@@ -41,6 +41,17 @@ and learn how Runestone can replace the need for a separate online homework syst
 This minicourse will take place at MAA Mathfest (2023 August 2-5) in Tampa, FL.
 [Learn more here.](https://web.cvent.com/event/6ee04f0b-0da3-45ee-b9d6-61cd14e1e5d0/websitePage:6a526d58-72d7-48b3-a28f-58501bcc4078)
 
+### Runestone Instructor Dashboard Bootcamp [[Link]](https://www.eventbrite.com/e/nccse-mini-pd-series-tickets-530679445507)
+
+The National Center for Computer Science Education is excited to announce that they are offering a Computer Science Workshop Series during the 2023-24 academic year. This will be a series of virtual hands-on 2-4 hour workshops for Computer Science educators. Participants will work with trained computer science teachers and facilitators. For each mini-PD completed, participants may request a certificate of completion. Educators can choose to register for one mini-PD at a time or several at once.
+
+Two options are are available (see [EventBrite page](https://www.eventbrite.com/e/nccse-mini-pd-series-tickets-530679445507) for details).
+
+- 2023 August 5 (Basics) and August 19 (Advanced)  
+  12pm-2pm Eastern
+- 2023 September 9 (Basics) and August 23 (Advanced)  
+  12pm-2pm Eastern
+
 ## Full calendar
 
 All our events are available [on our PROSE calendar](../#upcoming-events).
