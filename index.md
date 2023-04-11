@@ -8,8 +8,6 @@ and Runestone software products that enable the authoring and publishing of [acc
 virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we will engage instructors, authors,
 publishers, and researchers using these products to develop a vision and strategic plan for our OSE.
 
-- [Connect with us!](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
-
 ## 2023 PROSE Summer Programs
 
 Learn how to get involved in one of our [2023 Summer Programs](./summer/).
@@ -36,18 +34,11 @@ of online books that improve student learning.
 
 <img src="./process-diagram.png" style="width:100%;margin:auto;display:block;" alt="Diagram illustrating process of creating and disseminating OER with PreTeXt and Runestone">
 
-## Get Involved
-
-Everyone engaged in STEM Open Educational Resources, *whether or not you're currently involved with PreTeXt or Runestone*, is encouraged to
-[fill out our interest form](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
-letting us know how this project could support your work.
-
-- [Get in touch!](https://docs.google.com/forms/d/e/1FAIpQLScnQ2lVEXD3KIfODoBTgA55naihH9lIwVrxMQWniNw_JYgLFA/viewform)
-
 ## Connect via Social
 
 Our community members are active on these corners of the internet:
 
+- GitHub: [PreTeXtBook](https://github.com/PreTeXtBook) and [RunestoneInteractive](https://github.com/RunestoneInteractive)
 - Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce)
 - Twitter: [@PreTeXtBook](https://twitter.com/pretextbook), [@iRunestone](https://twitter.com/irunestone)
 - Mastodon: <a href="https://fosstodon.org/@PreTeXt" rel="me">@PreTeXt@fosstodon.org</a>
