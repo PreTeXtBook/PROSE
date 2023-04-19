@@ -32,11 +32,13 @@ This MAA-sponsored virtual workshop will be offered 2023 June 5-9.
 NSF-funded workshop held 2023 June 12-16 to envision the future of our Open-Source Ecosystem.
 [Learn more here.](../workshop/)
 
-### Using GitHub for Faculty [Registration coming soon]
+### Using GitHub for Faculty [[Registration]](https://docs.google.com/forms/d/e/1FAIpQLSdgzXvjJ6okMe_0N_Tx0Cjt-CrRxkAiuhjkaOlqGmQTy1gf0g/viewform?usp=sf_link)
 
 Many faculty are famliar with [GitHub](https://github.com/) and its potential to organize instructional and research content in an open and accessible framework, but are intimidated by the command line tools often used to work with the platform. With recent enhancements to GitHub's web-based tools, it's never been easier to use GitHub for instruction and scholarship. This two-hour workshop will overview how to take advantage of GitHub using just a web browser to create a course or project website, to manage a discussion board for your course/project, and to author reproducable Python or LaTeX code directly in your course/project repository.
 
 This workshop will be held on 2023 June 27 (Tuesday) from 11am-1pm Eastern. Registration is $75, with early-bird discounts and other waivers available (see registration form for details).
+
+[Register here.](https://docs.google.com/forms/d/e/1FAIpQLSdgzXvjJ6okMe_0N_Tx0Cjt-CrRxkAiuhjkaOlqGmQTy1gf0g/viewform?usp=sf_link) Space is limited and offered first come, first serve.
 
 ### MAA Mathfest: Teaching Single Variable Calculus with Active Calculus and Runestone [[Link]](https://web.cvent.com/event/6ee04f0b-0da3-45ee-b9d6-61cd14e1e5d0/websitePage:6a526d58-72d7-48b3-a28f-58501bcc4078)
 
