@@ -14,6 +14,5 @@ This workshop will generally follow the [AIM model](https://aimath.org/workshops
 
 We have funding from the NSF to support around thirty participants. We have sent invitations to several stakeholders from all corners of the PreTeXt-Runestone ecosystem asking for their availability, but are seeking applications from other participants who can help us scope our open-source ecosystem. Applications from persons underrepresented in STEM OER initiatives are especially encouraged. We also need the participation of everyone necessary for the health of our ecosystem: instructors, authors, researchers, publishers, and developers.
 
-[Apply using this form.](https://docs.google.com/forms/d/e/1FAIpQLScJ9plzvDwqkQfBPbhiS713XKDuQiw2UlPF9FapgAI2KOn1ng/viewform) Applications will be considered on a rolling basis as space allows, but to ensure full consideration we ask that you **apply by 2023 March 24**.
-
-<p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLScJ9plzvDwqkQfBPbhiS713XKDuQiw2UlPF9FapgAI2KOn1ng/viewform">Apply here.</a></p>
+- For funding for **in-person** participation: [Apply using this form.](https://docs.google.com/forms/d/e/1FAIpQLScJ9plzvDwqkQfBPbhiS713XKDuQiw2UlPF9FapgAI2KOn1ng/viewform) Applications will be considered on a rolling basis as space allows, but to ensure full consideration we ask that you **apply by 2023 March 24**.
+- For **virtual** participation: [Apply using this form.](https://docs.google.com/forms/d/e/1FAIpQLScJ9plzvDwqkQfBPbhiS713XKDuQiw2UlPF9FapgAI2KOn1ng/viewform) Applications will be considered on a rolling basis, but to ensure full consideration we ask that you **apply by 2023 May 26**.
