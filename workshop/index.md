@@ -12,7 +12,52 @@ This workshop will include a variety of stakeholders across the ecosystem: instr
 
 This workshop will generally follow the [AIM model](https://aimath.org/workshops/about/). Leaders in the community will be asked to give presentations each morning on how the ecosystem is supporting them currently, and how they feel it could grow to serve more scholars. Each afternoon we will form working groups in order to have targeted discussion on various topics related to the ecosystem. A major goal of the workshop is to provide community consensus on topics related to our upcoming [NSF POSE Phase II](https://www.nsf.gov/pubs/2023/nsf23556/nsf23556.htm) proposal that will provide the funding to make these plans a reality.
 
-We have funding from the NSF to support around thirty participants. We have sent invitations to several stakeholders from all corners of the PreTeXt-Runestone ecosystem asking for their availability, but are seeking applications from other participants who can help us scope our open-source ecosystem. Applications from persons underrepresented in STEM OER initiatives are especially encouraged. We also need the participation of everyone necessary for the health of our ecosystem: instructors, authors, researchers, publishers, and developers.
-
-- For funding for **in-person** participation: [Apply using this form.](https://docs.google.com/forms/d/e/1FAIpQLScJ9plzvDwqkQfBPbhiS713XKDuQiw2UlPF9FapgAI2KOn1ng/viewform) Applications will be considered on a rolling basis as space allows, but to ensure full consideration we ask that you **apply by 2023 March 24**.
 - For **virtual** participation: [Apply using this form.](https://docs.google.com/forms/d/e/1FAIpQLSfmG2ch0k_dzGcYxSbhB2JrVDmp-0dNcCYxpguOLc_tbxWQeQ/viewform?usp=sf_link) Applications will be considered on a rolling basis, but to ensure full consideration we ask that you **apply by 2023 May 26**.
+
+## Workshop Schedule (Work-in-progress)
+
+Official activities will take place between 9am-4pm Monday-Thursday, and 9am-12noon on Friday, at the University of South Alabama Faculty Club.
+
+- Sunday June 11
+  - Time TBD: Social Event @ [Homewood Suites by Hilton Mobile Airport-University Area](https://www.hilton.com/en/hotels/mobpphw-homewood-suites-mobile-airport-university-area/)
+- Monday June 12
+  - 8:15am: Bus transportation from Homewood Suites to Faculty Club
+  - 8:30am: Coffee and light snacks
+  - 9:00am: Presentations
+  - 12:00noon: Catered lunch (Chicken Madira)
+  - 1:00pm: Working groups
+  - 3:45pm: Reflection
+  - 5:15pm: Dinner @ Heroes Sports Grille and Bar
+  - 6:30pm: Bus transportation from Heroes to Homewood Suites
+- Tuesday June 13
+  - 8:15am: Bus transportation from Homewood Suites to Faculty Club
+  - 8:30am: Coffee and light snacks
+  - 9:00am: Presentations
+  - 12:00noon: Catered lunch (Taco Bar)
+  - 1:00pm: Working groups
+  - 3:45pm: Reflection
+  - 5:15pm: Dinner @ Voodoo Wing Company and surrounding restaurants
+  - 6:30pm: Bus transportation from Voodoo to Homewood Suites
+- Wednesday June 14
+  - 8:15am: Bus transportation from Homewood Suites to Faculty Club
+  - 8:30am: Coffee and light snacks
+  - 9:00am: Presentations
+  - 12:00noon: Catered lunch (Sandwich Bar)
+  - 1:00pm: Working groups
+  - 3:45pm: Reflection
+  - 5:00pm: Banquet Dinner (Chicken Pinot Noir) with Bar service available
+  - 7:15pm: Bus transportation from Faculty Club to Homewood Suites
+- Thursday June 15
+  - 8:15am: Bus transportation from Homewood Suites to Faculty Club
+  - 8:30am: Coffee and light snacks
+  - 9:00am: Presentations
+  - 12:00noon: Catered lunch (Cajun Meatloaf)
+  - 1:00pm: Working groups
+  - 3:45pm: Reflection
+  - 5:00pm: Bus transportation from Faculty Club to Homewood Suites (dinner on your own)
+- Friday June 16
+  - 8:15am: Bus transportation from Homewood Suites to Faculty Club
+  - 8:30am: Coffee and light snacks
+  - 9:00am: Presentations/Working Groups
+  - 11:30am: Reflection
+  - 12noon: Dismissal
