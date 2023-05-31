@@ -25,6 +25,10 @@ Official activities will take place between 9am-4pm Monday-Thursday, and 9am-12n
   - 8:15am: Bus transportation from Homewood Suites to Faculty Club
   - 8:30am: Coffee and light snacks
   - 9:00am: Presentations
+    - 9:00am: What is POSE? (Steven Clontz)
+    - 9:30am: Introductions (everyone)
+    - 11:00am: State of the Runestone Address (Brad Miller)
+    - 11:30am: State of the PreTeXt Address (Rob Beezer)
   - 12:00noon: Catered lunch (Chicken Madira)
   - 1:00pm: Working groups
   - 3:45pm: Reflection
