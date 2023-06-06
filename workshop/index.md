@@ -13,7 +13,7 @@ This workshop will include a variety of stakeholders across the ecosystem: instr
 This workshop will generally follow the [AIM model](https://aimath.org/workshops/about/). Leaders in the community will be asked to give presentations each morning on how the ecosystem is supporting them currently, and how they feel it could grow to serve more scholars. Each afternoon we will form working groups in order to have targeted discussion on various topics related to the ecosystem. A major goal of the workshop is to provide community consensus on topics related to our upcoming [NSF POSE Phase II](https://www.nsf.gov/pubs/2023/nsf23556/nsf23556.htm) proposal that will provide the funding to make these plans a reality.
 
 - We do not have funding for additional in-person participants at this time.
-- For **virtual** participation: [Apply using this form.](https://docs.google.com/forms/d/e/1FAIpQLSfmG2ch0k_dzGcYxSbhB2JrVDmp-0dNcCYxpguOLc_tbxWQeQ/viewform?usp=sf_link) Applications will be considered on a rolling basis, but to ensure full consideration we ask that you **apply by 2023 May 26**.
+- We've closed our application for virtual participation, but email <sclontz@southalabama.edu> if you'd still like to be considered.
 
 ## Workshop Details and Schedule
 
