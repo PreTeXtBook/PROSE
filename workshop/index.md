@@ -39,6 +39,8 @@ Funded in-person participants have a reservation at the [Homewood Suites by Hilt
     - 11:30am: State of the PreTeXt Address (Rob Beezer)
   - 12:00noon: Catered lunch (Chicken Madira)
   - 1:00pm: Working groups
+    - 1:00pm: Identifying our subcommunities and their enagement/sustainability
+    - 2:30pm: Modeling participation for each of our subcommunities
   - 3:45pm: Reflection
   - 5:15pm: Dinner @ Heroes Sports Grille and Bar
   - 6:30pm: Bus transportation from Heroes to Homewood Suites
