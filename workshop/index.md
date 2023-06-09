@@ -17,13 +17,15 @@ This workshop will generally follow the [AIM model](https://aimath.org/workshops
 
 ## Workshop Details and Schedule
 
-Official activities will take place between 9am-4pm Monday-Thursday, and 9am-12noon on Friday, at the [University of South Alabama Faculty Club](https://www.southalabama.edu/departments/mitchellcenter/facultyclub/). 
+Official activities will take place between 9am-4pm Monday-Thursday, and 9am-12noon on Friday, at the [University of South Alabama Faculty Club](https://www.southalabama.edu/departments/mitchellcenter/facultyclub/) near the corner of Old Shell Rd and Hillcrest Rd.
 
 Virtual participants will receive information via email on how to connect via Zoom.
 
 The Mobile area is served by both Lyft and Uber which are typically available for incoming flights to the MOB airport; previous visitors to the University of South Alabama have reported good experiences using the "Derek's Taxi" car service (251-654-2817) to schedule rides in advance.
 
 Funded in-person participants have a reservation at the [Homewood Suites by Hilton Mobile Airport-University Area](https://www.hilton.com/en/hotels/mobpphw-homewood-suites-mobile-airport-university-area/). Airfare/mileage will be reimbursed after the workshop concludes. Breakfast is provided at the hotel, and several meals during the workshop will be catered; actual costs for other meals can also be reimbursed without receipts (up to a daily maximum which will depend on the final costs of the provided food).
+
+Bus transportation for up to 20 participants will be available between the hotel and workshop activities at the beginning and end of each day (except Friday at the end of the workshop). Participants with vehicles are asked to help provide transportation for others. For participants who asked about possibly walking to campus from the hotel: the best route would be to take Airport Blvd east towards Hillcrest Rd (~1mi including about 1000 feet without a sidewalk), then Hillcrest Rd north towards Old Shell Rd (~1mi).
 
 \* Participants who drink alcoholic beverages are asked to contribute a $10 cover for the Welcome Reception on Sunday and the Banquet Dinner on Wednesday. This will cover the cost of assorted beer and wine provided at the reception, and the cost of a bartender to offer beer, wine, and spirits for purchase (credit card only) at the banquet dinner. There is no cover for participants who do not wish to drink alcohol at these events as the cost of food and non-alcoholic beverages is covered by our workshop funding.
 
