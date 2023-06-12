@@ -37,8 +37,8 @@ Bus transportation for up to 20 participants will be available between the hotel
   - 9:00am: Presentations
     - 9:00am: What is POSE? (Steven Clontz)
     - 9:30am: Introductions (everyone)
-    - 11:00am: State of the Runestone Address (Brad Miller)
-    - 11:30am: State of the PreTeXt Address (Rob Beezer)
+    - ~~11:00am~~ 10:50am: State of the Runestone Address (Brad Miller)
+    - ~~11:30am~~ 11:25am: State of the PreTeXt Address (Rob Beezer)
   - 12:00noon: Catered lunch (Chicken Madira)
   - 1:00pm: Working groups
     - 1:00pm: Identifying our subcommunities and their enagement/sustainability
