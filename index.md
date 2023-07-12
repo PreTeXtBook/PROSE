@@ -2,20 +2,20 @@
 layout: default
 ---
 
-**The PROSE Consortium** brings together the ecosystem of various open source products and communities serving STEM education research and practice in North America, joined by their **common mission: to equip STEM teachers with open-source content, tools and strategies that provide engaging, accessible, and effective learning experiences for their students**.
+**The PROSE Consortium** brings together the ecosystem of various open-source products and communities serving STEM education research and practice in North America, joined by their **common mission: to equip STEM teachers with open-source content, tools and strategies that provide engaging, accessible, and effective learning experiences for their students**.
 
-This Consortium is guided by an Advisory Council of eight leaders from this ecosystem. The Consortium is further served by leaders known as PROSE Fellows, selected by the Council to recognize their contributions to open source STEM education, and to represent the Consortium more broadly. Finally, the Council also recognizes PROSE Ecosystem Products, open source software that advances its mission.
+This Consortium is guided by an Advisory Council of eight leaders from this ecosystem. The Consortium is further served by leaders known as PROSE Fellows, selected by the Council to recognize their contributions to open-source STEM education, and to represent the Consortium more broadly. Finally, the Council also recognizes PROSE Ecosystem Products, open-source software that advances its mission.
 
 The PROSE Consortium is an initiative of
 [Runestone Academy, Ltd](https://landing.runestone.academy/about-us.html), a 501(c)(3) non-profit organization.
 
 ![PROSE Consortium logo](./prose-consortium.png)
 
-## NSF Pathways to Enable Open Source Ecosystems
+## NSF Pathways to Enable Open-Source Ecosystems
 
 We are grateful for the [support](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2230153) of the [National
 Science Foundation](https://nsf.gov), through its
-[Pathways to Enable Open Source Ecosystems](https://new.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose) program.
+[Pathways to Enable Open-Source Ecosystems](https://new.nsf.gov/funding/opportunities/pathways-enable-open-source-ecosystems-pose) program.
 
 Our Phase I activities are currently scoping the development of our Open-Source Ecosystem (OSE) to maximize our impact supporting the authoring and publishing of [accessible](https://en.wikipedia.org/wiki/Accessibility)
 [Open Educational Resources](https://en.wikipedia.org/wiki/Open_educational_resources) in STEM. Through a series of
@@ -45,7 +45,7 @@ of online books that improve student learning.
 
 ### WeBWorK
 
-[WeBWorK](https://openwebwork.org/) is an open-source online homework system for STEM courses. WeBWorK has been supported by the MAA and the NSF and comes with a Open Problem Library (OPL) of over 35,000 homework problems. Formed in 2018, The WeBWorK Project (TWP) is a non-profit organization that coordinates a large volunteer community that supports the WeBWorK open source software. Members of TWP contribute new questions and features to WeBWorK, curate the open problem library, respond to help requests on the forum, and communicate WeBWorK advancements and research at conferences and in university settings.
+[WeBWorK](https://openwebwork.org/) is an open-source online homework system for STEM courses. WeBWorK has been supported by the MAA and the NSF and comes with a Open Problem Library (OPL) of over 35,000 homework problems. Formed in 2018, The WeBWorK Project (TWP) is a non-profit organization that coordinates a large volunteer community that supports the WeBWorK open-source software. Members of TWP contribute new questions and features to WeBWorK, curate the open problem library, respond to help requests on the forum, and communicate WeBWorK advancements and research at conferences and in university settings.
 WeBWorK hosting is a service of Runestone Academy, and WeBWorK exercises are easily integrated into any PreTeXt book.
 
 ### Doenet
