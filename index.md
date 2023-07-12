@@ -72,7 +72,7 @@ Our community members are active on these corners of the internet:
 ## PROSE Advisory Council Members
 
 - [Rob Beezer](https://pretextbook.org), PreTeXt founder and maintainer, and PROSE Phase I co-PI
-- [Steven Clontz](https://clontz.org) <<sclontz@southalabama.edu>>, PreTeXt authoring toolchain contributor, [TBIL Resource Library](http://library.tbil.org) maintainer, and PROSE Phase I PI
+- [Steven Clontz](https://clontz.org) (<sclontz@southalabama.edu>), PreTeXt authoring toolchain contributor, [TBIL Resource Library](http://library.tbil.org) maintainer, and PROSE Phase I PI
 - [Barbara Ericson](https://www.si.umich.edu/people/barbara-ericson), researcher in Educational Technology, Learning Analytics, and Human Computer Interaction
 - [Danny Glin](https://github.com/dlglin), WeBWorK senior contributor
 - [Brad Miller](https://runestone.academy), Runestone founder and maintainer, and PROSE Phase I co-PI
