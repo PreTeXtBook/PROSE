@@ -29,7 +29,7 @@ virtual and in-person roundtable discussions, office hours, and [workshops](./wo
 in a single source. This content can include words, images, embeddable videos, applets,
 and much more. Its open-source software is able to convert this single source into a printable PDF,
 accessible and interactive HTML, tactile braille code, and more formats. These documents can then
-be deployed to freely-available static web hosts, with [GitHub Pages](https://pages.github.com) support built-in.
+be deployed to any freely-available static web host, with GitHub Pages support built-in.
 
 ### Runestone
 
