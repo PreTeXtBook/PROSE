@@ -46,6 +46,7 @@ of online books that improve student learning.
 ### WeBWorK
 
 [WeBWorK](https://openwebwork.org/) is an open-source online homework system for STEM courses. WeBWorK has been supported by the MAA and the NSF and comes with a Open Problem Library (OPL) of over 35,000 homework problems. Formed in 2018, The WeBWorK Project (TWP) is a non-profit organization that coordinates a large volunteer community that supports the WeBWorK open source software. Members of TWP contribute new questions and features to WeBWorK, curate the open problem library, respond to help requests on the forum, and communicate WeBWorK advancements and research at conferences and in university settings.
+WeBWorK hosting is a service of Runestone Academy, and WeBWorK exercises are easily integrated into any PreTeXt book.
 
 ### Doenet
 
