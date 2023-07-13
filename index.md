@@ -38,7 +38,7 @@ that enhances PreTeXt-authored HTML, providing an all-inclusive solution for man
 Students and instructors are able to log into Runestone-hosted textbooks, allowing instructors to
 assign content from the book for students to complete online. Going beyond a traditional learning management system, Runestone 
 applies evidence-based principles and methods from educational technology and the learning sciences to create engaging and 
-effective learning experiences, supporting the difficulties and challenges of learners as they learn.
+effective learning experiences, reducing students' difficulties and challenges as they learn.
 Runestone's deep analytics not only help students and instructors optimize learning, but also support
 authors and researchers that want to study how books are being used, and evaluate interactive pedagogical features
 of online books that improve student learning.
