@@ -77,8 +77,8 @@ Our community members are active on these corners of the internet:
 - [Rob Beezer](https://pretextbook.org), PreTeXt founder and maintainer, and PROSE Phase I co-PI
 - [Matt Boelkins](https://faculty.gvsu.edu/boelkinm/), author of [Active Calculus](https://activecalculus.org/)
 - [Steven Clontz](https://clontz.org) (<sclontz@southalabama.edu>), PreTeXt authoring toolchain contributor, [TBIL Resource Library](http://library.tbil.org) maintainer, and PROSE Phase I PI
-- [Barbara Ericson](https://www.si.umich.edu/people/barbara-ericson), researcher in Educational Technology, Learning Analytics, and Human Computer Interaction
-- [Danny Glin](https://github.com/dlglin), WeBWorK senior contributor
+- [Barbara Ericson](https://www.si.umich.edu/people/barbara-ericson), researcher in educational technology, learning analytics, and human computer interaction
+- [Danny Glin](https://github.com/dlglin), Technical Manager for The WeBWorK Project
 - [Brad Miller](https://runestone.academy), Runestone founder and maintainer, and PROSE Phase I co-PI
 - [Jennifer Nordstrom](https://www.linfield.edu/faculty/jfirkins.html), author of [Introduction to Game Theory: A Discovery Approach](https://nordstrommath.com/IntroGameTheory/frontmatter-1.html)
 - [Duane Nykamp](https://www-users.cse.umn.edu/~nykamp/), Doenet project lead 
