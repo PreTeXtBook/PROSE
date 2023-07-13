@@ -19,7 +19,7 @@ Science Foundation](https://nsf.gov), through its
 
 Our Phase I activities are currently scoping the development of our Open-Source Ecosystem (OSE) to maximize our impact supporting the authoring and publishing of [accessible](https://en.wikipedia.org/wiki/Accessibility)
 [Open Educational Resources](https://en.wikipedia.org/wiki/Open_educational_resources) in STEM. Through a series of
-virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we are engaging studnets, instructors, authors, researchers, and developers using these products as we develop a vision and strategic plan for our OSE.
+virtual and in-person roundtable discussions, office hours, and [workshops](./workshop.html), we are engaging students, instructors, authors, researchers, and developers using these products as we develop a vision and strategic plan for our OSE.
 
 ## What are PROSE Ecosystem Products?
 
