@@ -9,7 +9,7 @@ This Consortium is guided by an Advisory Council of eight leaders from this ecos
 The PROSE Consortium is an initiative of
 [Runestone Academy, Ltd](https://landing.runestone.academy/about-us.html), a 501(c)(3) non-profit organization.
 
-![PROSE Consortium logo](./prose-consortium.svg)
+![PROSE Consortium logo](./prose-consortium.png)
 
 ## NSF Pathways to Enable Open-Source Ecosystems
 
