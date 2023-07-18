@@ -52,7 +52,7 @@ WeBWorK hosting is a service of Runestone Academy, and WeBWorK exercises are eas
 
 [Doenet](https://www.doenet.org/) is an open data-driven educational technology platform designed to measure and share student interactions with web pages. It includes tools for authoring interactive educational content,
 including its PreTeXt-inspired DoenetML markup language,
-and conducting educational research using the content. Its ultimate goal is to provide research-based tools to help instructors and learners discover the most effective content. Simply put, Doenet gives teachers complete flexibility over their educational content and gives them power of anonymized student data to track learning outcomes.
+and conducting educational research using the content. Its ultimate goal is to provide research-based tools to help instructors and learners discover the most effective content.
 
 ### And yours?
 
