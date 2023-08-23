@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<div style="text-align:center;font-size:1.5em"><p>MAA MathFest attendees: connect with us using <a href="https://docs.google.com/forms/d/e/1FAIpQLSdYenMgSF8MvJRdFn45v7eLxkrlSNt76n72BV22ytsR2OJALQ/viewform">this form</a>!</p></div>
-
 **The PROSE Consortium** brings together the ecosystem of various open-source products and communities serving STEM education research and practice in North America, joined by their **common mission: to equip STEM teachers with open-source content, tools and strategies that provide engaging, accessible, and effective learning experiences for their students**.
 
 This Consortium is guided by an Advisory Council of eight leaders from this ecosystem. The Consortium is further served by leaders known as PROSE Fellows, selected by the Council to recognize their contributions to open-source STEM education, and to represent the Consortium more broadly. Finally, the Council also recognizes PROSE Ecosystem Products, open-source software that advances its mission.
