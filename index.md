@@ -4,7 +4,17 @@ layout: default
 
 **The PROSE Consortium** brings together the ecosystem of various open-source products and communities serving STEM education research and practice in North America, joined by their **common mission: to equip STEM teachers with open-source content, tools and strategies that provide engaging, accessible, and effective learning experiences for their students**.
 
-This Consortium is guided by an Advisory Council of eight leaders from this ecosystem. The Consortium is further served by leaders known as PROSE Fellows, selected by the Council to recognize their contributions to open-source STEM education, and to represent the Consortium more broadly. Finally, the Council also recognizes PROSE Ecosystem Products, open-source software that advances its mission.
+The PROSE Consortium welcomes any person or organization committed to five guiding principles:
+
+1. We exist to enable
+    - Students to learn more successfully.
+    - Teachers to instruct more effectively.
+    - Authors to write more productive and more accessible materials.
+    - Researchers to develop more powerful tools and pedagogies.
+2. We are committed to ensuring access to the best open-source learning environments for all of our stakeholders, but especially for the students who need it the most.
+3. We embrace the open web and open standards.
+4. We collaborate on a flexible platform that incorporates new innovations.
+5. We welcome, recognize, and celebrate all users, contributors, and their innovations that move our ecosystem forward.
 
 The PROSE Consortium is an initiative of
 [Runestone Academy, Ltd](https://landing.runestone.academy/about-us.html), a 501(c)(3) non-profit organization.
@@ -73,6 +83,8 @@ Our community members are active on these corners of the internet:
 - Discord: [Runestone Academy](https://discord.gg/f3Qmbk9P3U), [Doenet](https://discord.gg/PUduwtKJ5h)
 
 ## PROSE Advisory Council Members
+
+The PROSE Consortium is guided by an Advisory Council of eight leaders from our ecosystem.
 
 - [Rob Beezer](https://pretextbook.org), PreTeXt founder and maintainer, and PROSE Phase I co-PI
 - [Matt Boelkins](https://faculty.gvsu.edu/boelkinm/), author of [Active Calculus](https://activecalculus.org/)
