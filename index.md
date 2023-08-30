@@ -78,9 +78,9 @@ Our community members are active on these corners of the internet:
 
 - GitHub: [PreTeXtBook](https://github.com/PreTeXtBook), [RunestoneInteractive](https://github.com/RunestoneInteractive), [WeBWorK](https://github.com/openwebwork), [Doenet](https://github.com/Doenet)
 - Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce)
-- Twitter: [@PreTeXtBook](https://twitter.com/pretextbook), [@iRunestone](https://twitter.com/irunestone), [@webwork2](https://twitter.com/webwork2)
 - Mastodon: <a href="https://fosstodon.org/@PreTeXt" rel="me">@PreTeXt@fosstodon.org</a>
 - Discord: [Runestone Academy](https://discord.gg/f3Qmbk9P3U), [Doenet](https://discord.gg/PUduwtKJ5h)
+- Slack: [WebWork](https://join.slack.com/t/thewebworkproject/shared_invite/zt-22cezu2eq-SIp3JS70B9Rg9EMkUgDOww)
 
 ## PROSE Advisory Council Members
 
