@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**ANNOUNCEMENT:** We're looking for community members to join our inaugural cohort of PROSE Fellows! [Let us know you're interested using this form by Mon Oct 16.](https://docs.google.com/forms/d/e/1FAIpQLSeP-VRKC1NiONbEwlFIul2w2tYhXrybtMpVSyOHQFbDVTf1Fw/viewform)
+
 **The PROSE Consortium** brings together the ecosystem of various open-source products and communities serving STEM education research and practice in North America, joined by their **common mission: to equip STEM teachers with open-source content, tools and strategies that provide engaging, accessible, and effective learning experiences for their students**.
 
 The PROSE Consortium welcomes any person or organization committed to five guiding principles:
@@ -77,7 +79,7 @@ more information!
 Our community members are active on these corners of the internet:
 
 - GitHub: [PreTeXtBook](https://github.com/PreTeXtBook), [RunestoneInteractive](https://github.com/RunestoneInteractive), [WeBWorK](https://github.com/openwebwork), [Doenet](https://github.com/Doenet)
-- Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce)
+- Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce), [pretext-support](https://groups.google.com/g/pretext-support)
 - Mastodon: <a href="https://fosstodon.org/@PreTeXt" rel="me">@PreTeXt@fosstodon.org</a>
 - Discord: [Runestone Academy](https://discord.gg/f3Qmbk9P3U), [Doenet](https://discord.gg/PUduwtKJ5h)
 - Slack: [WebWork](https://join.slack.com/t/thewebworkproject/shared_invite/zt-22cezu2eq-SIp3JS70B9Rg9EMkUgDOww)
