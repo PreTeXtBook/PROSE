@@ -2,10 +2,6 @@
 layout: default
 ---
 
-**ANNOUNCEMENT:** We're looking for community members to join our inaugural cohort of PROSE Fellows! [Let us know you're interested using this form by Mon Oct 16.](https://docs.google.com/forms/d/e/1FAIpQLSeP-VRKC1NiONbEwlFIul2w2tYhXrybtMpVSyOHQFbDVTf1Fw/viewform)
-
----
-
 **The PROSE Consortium** brings together the ecosystem of various open-source products and communities serving STEM education research and practice in North America, joined by their **common mission: to equip STEM teachers with open-source content, tools and strategies that provide engaging, accessible, and effective learning experiences for their students**.
 
 The PROSE Consortium welcomes any person or organization committed to five guiding principles:
