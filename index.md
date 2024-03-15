@@ -74,7 +74,11 @@ more information!
 
 ## Connect with us
 
-Our community members are active on these corners of the internet:
+The best way to connect with us is to join our
+[PROSE Consortium Discord server](https://discord.gg/UScmJVa25f),
+or join a [community Zoom drop-in](#upcoming-events).
+
+Our community members are also active on these corners of the internet:
 
 - GitHub: [PreTeXtBook](https://github.com/PreTeXtBook), [RunestoneInteractive](https://github.com/RunestoneInteractive), [WeBWorK](https://github.com/openwebwork), [Doenet](https://github.com/Doenet)
 - Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce), [pretext-support](https://groups.google.com/g/pretext-support)
