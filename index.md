@@ -78,13 +78,19 @@ The best way to connect with us is to join our
 [PROSE Consortium Discord server](https://discord.gg/UScmJVa25f),
 or join a [community Zoom drop-in](#upcoming-events).
 
-Our community members are also active on these corners of the internet:
+You can also connect directly with specific communities affiliated with our
+consortium:
 
-- GitHub: [PreTeXtBook](https://github.com/PreTeXtBook), [RunestoneInteractive](https://github.com/RunestoneInteractive), [WeBWorK](https://github.com/openwebwork), [Doenet](https://github.com/Doenet)
-- Google Groups: [pretext-announce](https://groups.google.com/g/pretext-announce), [pretext-support](https://groups.google.com/g/pretext-support)
-- Mastodon: <a href="https://fosstodon.org/@PreTeXt" rel="me">@PreTeXt@fosstodon.org</a>
-- Discord: [Runestone Academy](https://discord.gg/f3Qmbk9P3U), [Doenet](https://discord.gg/PUduwtKJ5h)
-- Slack: [WebWork](https://join.slack.com/t/thewebworkproject/shared_invite/zt-22cezu2eq-SIp3JS70B9Rg9EMkUgDOww)
+- PreTeXt: [GitHub](https://github.com/PreTeXtBook),
+  [pretext-announce Google Group](https://groups.google.com/g/pretext-announce),
+  [pretext-support Google Group](https://groups.google.com/g/pretext-support),
+- Runestone: [GitHub](https://github.com/RunestoneInteractive)
+  [Discord](https://discord.gg/f3Qmbk9P3U)
+- WeBWorK: [GitHub](https://github.com/openwebwork),
+  [Slack](https://join.slack.com/t/thewebworkproject/shared_invite/zt-22cezu2eq-SIp3JS70B9Rg9EMkUgDOww),
+  [Moodle forum](https://webwork.maa.org/moodle/mod/forum/index.php?id=3)
+- Doenet: [GitHub](https://github.com/Doenet),
+  [Discord](https://discord.gg/PUduwtKJ5h)
 
 ## PROSE Advisory Council Members
 
