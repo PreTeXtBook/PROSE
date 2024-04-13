@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![PROSE Consortium logo](./prose-consortium.png)
+
 **The PROSE Consortium** brings together the ecosystem of various open-source products and communities serving STEM education research and practice in North America, joined by their **common mission: to equip STEM teachers with open-source content, tools and strategies that provide engaging, accessible, and effective learning experiences for their students**.
 
 The PROSE Consortium welcomes any person or organization committed to five guiding principles:
@@ -18,8 +20,6 @@ The PROSE Consortium welcomes any person or organization committed to five guidi
 
 The PROSE Consortium is an initiative of
 [Runestone Academy, Ltd](https://landing.runestone.academy/about-us.html), a 501(c)(3) non-profit organization.
-
-![PROSE Consortium logo](./prose-consortium.png)
 
 ## NSF Pathways to Enable Open-Source Ecosystems
 
