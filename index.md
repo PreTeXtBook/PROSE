@@ -75,8 +75,12 @@ more information!
 ## Connect with us
 
 The best way to connect with us is to join our
-[PROSE Consortium Discord server](https://discord.gg/UScmJVa25f),
-or join a [community Zoom drop-in](#upcoming-events).
+
+[**PROSE Consortium Discord server**](https://discord.gg/UScmJVa25f)
+
+or join a
+
+[**community Zoom drop-in**](#upcoming-events).
 
 You can also connect directly with specific communities affiliated with our
 consortium:
