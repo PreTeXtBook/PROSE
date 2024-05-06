@@ -37,6 +37,12 @@ should be available for other creators to remix and redistribute as part of futu
 educational innovations, as well as for scholars to leverage as part of their educational
 research programs.
 
+*Simply making your work available somewhere online does not clearly communicate to
+students and teachers that they have the right to use your work or archive/redistribute
+your work in case it becomes unavailable later. It also does not facilitate community
+investment in your product, as there is no mechanism for co-creators to build upon
+your product, or contribute improvements back to you.*
+
 To that end, we encourage our community members to not only make their works
 available online, but to explicitly **open-license** and **open-source** their works
 using **open platforms**.
@@ -52,12 +58,53 @@ IP was created as a requirement of their official duties, such as part of an ext
 sponsored grant. This may vary by organization and the type of IP created (e.g. software
 may have different rules); your faculty handbook may have more information.
 
-Either way, the copyright owner may choose to apply an open **license** on this IP that
-allows non-owners to use this property for their own purposes.
+Either way, the copyright owner may choose to apply a **license** on this IP that
+allows non-owners to use this property for their own purposes. Examples of specific licenses
+we suggest (depending on the product) are below, but in general, an **open license** is
+one that provides the public the right to use, remix, and redistribute IP, modulo
+some requirements such as attribution of the original author.
+
+An open license provides the public the *legal* right to use your work, but in order
+to give them a *practical* ability to do so, creators must also consider open source
+and open platforms.
 
 ### Open Source
 
-### Open Platforms
+While it is possible to open-license a complete product and make this finalized work
+available to the public, this is not enough for the product to be considered **open source**.
+An open source product not only has its finalized work made available to the public,
+but also all the source files and materials necessary to rebuild this finalized work.
+As a simple example, an author may make their textbook available as a PDF under an open
+license, but without also distributing the source text/Word/LaTeX document that was used
+to create this PDF, they have impeded the practical ability of other creators to create
+derivative works. This means not only that typos stay typos, but it may end up easier 
+for other creators to "reinvent the wheel" rather than use the create materials you've
+already developed.
+
+Open-sourcing your work can be as simple as hosting the source files for a product
+alongside the finished work, but creators that adopt version control systems such as
+[Git/GitHub](https://g4m.clontz.org) benefit from tooling that not only dissiminates
+their source code, but also provides co-creators mechanisms to contribute back their
+edits, communicate about the development of the open-source work, and so on.
+
+### Open Platforms and Vendors
+
+A final consideration for open-source educational resources are the platforms and vendors
+used to create, distribute, and implement these works in the classroom. This is particularly
+important in an era with many freely-available websites that not only host educational
+resources, but allow for the creation and dissemination of new educational works. However,
+if these web applications are themselves proprietary, what happens when they add a paywall
+restriction, or go offline altogether? While the content creators may retain copyright
+over their works built for such a service, and may choose to open-license and open-source those
+works, there is little benefit for having a license and source code that's only compatible
+with a service that is not available for students or teachers to use in the classroom.
+
+To that end, [the PROSE Consortium](https://prose.runestone.academy)
+is dedicated to supporting the creation of educational
+technologies and resources that are not locked into any particular platform or vendor,
+even our own. By using open-source software to create your educational product,
+and disseminating it using open-source services, you are investing in the longevity of
+your work and its impact on the broader community of STEM education research and practice.
 
 ## Two Major Kinds of Educational Products
 
