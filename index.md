@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<p style="font-size:1.3em;text-align:center"><a href="https://discord.gg/UScmJVa25f">Join the conversation on Discord!</a></p>
+
 ![PROSE Consortium logo](./prose-consortium.png)
 
 **The PROSE Consortium** brings together the ecosystem of various open-source products and communities serving STEM education research and practice in North America, joined by their **common mission: to equip STEM teachers with open-source content, tools and strategies that provide engaging, accessible, and effective learning experiences for their students**.
