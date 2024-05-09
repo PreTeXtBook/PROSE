@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="font-size:1.3em;text-align:center"><a href="https://discord.gg/UScmJVa25f">Join the conversation on Discord!</a></p>
+<p style="font-size:1.3em;text-align:center;text-shadow: 1px 1px 1px #bdb7ff"><a href="https://discord.gg/UScmJVa25f">Join the conversation on Discord!</a></p>
 
 ![PROSE Consortium logo](./prose-consortium.png)
 
