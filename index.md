@@ -3,7 +3,7 @@ layout: default
 ---
 
 <p style="font-size:1.3em;text-align:center;text-shadow: 1px 1px 1px #bdb7ff"><a href="https://discord.gg/UScmJVa25f">Join the conversation on Discord!</a></p>
-<p style="font-size:1.3em;text-align:center;text-shadow: 1px 1px 1px #bdb7ff"><a href="https://runestone.academy/donate">JDonate to Runestone Academy Ltd</a> <small>a 501(c)(3) nonprofit organization</small></p>
+<p style="font-size:1.3em;text-align:center;text-shadow: 1px 1px 1px #bdb7ff"><a href="https://runestone.academy/donate">Donate to Runestone Academy Ltd</a> <small>a 501(c)(3) nonprofit organization</small></p>
 <p style="font-size:1.3em;text-align:center;text-shadow: 1px 1px 1px #bdb7ff"><a href="https://docs.google.com/presentation/d/1NoCO4i55mfG258_Li4lTzbn1847Gso4212U22Bkfcsg/edit?usp=sharing">View our MathFest 2024 slideshow</a></p>
 
 ![PROSE Consortium logo](./prose-consortium.png)
